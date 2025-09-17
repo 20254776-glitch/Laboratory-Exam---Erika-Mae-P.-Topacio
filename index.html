@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laboratory Exam - Erika Mae P. Topacio</title>
+</head>
+<body>
+        <center><img src = C:\Users\TOPACIO_E\Downloads.jpg width=150px alt = "This is an image."></center>
+        <center><h1>Erika Mae Topacio</h1></center>
+        <center><h2>BSIT 1</h2></center>
+<br>
+<center><a href = "projects.html">Home</a></center>
+<center><a href = "projects.html">About</a></center>
+<center><a href = "projects.html">Projects</a></center>
+<a href= "index.html" Home </a> <a href "Home"> <a href= "projects.html" Home </a> <a href "About">
+    <h3><a>About</p></h3>
+
+    Hello! My name is Erika Mae Topacio. I am currently a student learning web development. I am taking HTML course to build a strong foundation in creating intereactive and structured web pages.
+    <a href= "index.html" Home </a> <a href "Home"><a href= "projects.html" Home </a> <a href "Hobbies"></a>
+    <h3><a>Hobbies</p></h3>
+    <ol> 
+        Painting <br>
+        Singing <br>
+        Gaming <br>
+        Dancing <br>
+    </ol>
+    <a href= "index.html" Home </a> <a href "Home"> <a href= "projects.html" Home </a> <a href "My favorite website"></a>
+    <h3><a>My Favorite Website</p></h3>
+        <ol>
+            <a href="https://www.facebook.com/"> Facebook- Great for communication.
+                <br>
+            <a href="https://www.flightradar24.com/13.62,124.32/6"> Flightradar- Can tract airplanes all over the world.
+                <br>
+            <a href="https://www.youtube.com/"> Youtube- Great for showing videos.
+            </ol>
+            <br>
+            <br>
+<body><pre>
+    Contact Me: 20254776@s.ubaguio.edu | Phone: 09562288654 | 2025 Erika Mae > all rights reserved. 
+</body></pre>
+</html>
